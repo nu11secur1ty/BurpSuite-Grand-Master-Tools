@@ -30,11 +30,11 @@ This tool is ideal for pentesters, bug bounty hunters, and web developers who ne
 
 ## Quick Start
 
-1. Save the generator script (for example `make_request_and_url_opener.py`) that was provided with this project.
+1. Save the generator script (for example, `Nu11Request.py`) that was provided with this project.
 
 2. Run the generator:
    ```bash
-   python make_request_and_url_opener.py
+   python Nu11Request.py
    ```
 
 3. Paste your raw HTTP request (e.g. from Burp). End the paste with a single line containing only:
