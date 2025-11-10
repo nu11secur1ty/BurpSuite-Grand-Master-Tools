@@ -3,7 +3,7 @@
 
 <!-- HERO / HEADER -->
 <p align="center">
-  <img alt="BurpSuite-Grand-Master-Tools" src="assets/logo.png" width="160" />
+  <img alt="BurpSuite-Grand-Master-Tools" src="https://github.com/nu11secur1ty/BurpSuite-Grand-Master-Tools/blob/main/docs/Burp01.png" width="160" />
 </p>
 
 <h1 align="center">BurpSuite-Grand-Master-Tools</h1>
