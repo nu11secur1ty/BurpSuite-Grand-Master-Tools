@@ -1,7 +1,7 @@
 #!/usr/bin/python
 """
 by nu11secur1ty 2025
-make_request_and_url_opener.py
+buildRECburp.py
 
 1) Paste a raw HTTP request (end with a single line containing only a dot: .)
 2) Saves the pasted request to a text file (default: saved_request.txt)
