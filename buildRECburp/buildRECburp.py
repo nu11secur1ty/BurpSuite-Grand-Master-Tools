@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python
 """
 by nu11secur1ty 2025
 make_request_and_url_opener.py
