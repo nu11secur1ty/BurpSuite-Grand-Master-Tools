@@ -1,5 +1,3 @@
-# BurpSuite-Grand-Master-Tools
-
 <!-- HERO / HEADER -->
 <p align="center">
   <img alt="BurpSuite-Grand-Master-Tools" src="https://github.com/nu11secur1ty/BurpSuite-Grand-Master-Tools/blob/main/docs/Burp01.png" width="160" />
